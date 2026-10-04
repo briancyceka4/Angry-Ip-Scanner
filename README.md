@@ -214,4 +214,4 @@ Angry IP Scanner is available as a **full free version** with **all features and
 Don't miss out on the opportunity to enhance your network management with Angry IP Scanner. **[Download it now for free!](https://www.softyne.com/angry-ip-scanner)**
 
 ---
-**Last updated:** 2026-10-04 15:06:14 UTC
+**Last updated:** 2026-10-04 18:59:15 UTC
